@@ -1,0 +1,4 @@
+im trying my hands on git.
+after im done, i will then proceed to push it to github
+
+
